@@ -1,5 +1,6 @@
 ![advocate page](https://github.com/user-attachments/assets/53b0c67b-39ae-4f20-a165-902bd2f0a53e)
 ![l](https://github.com/user-attachments/assets/ad9edaa1-9910-4ced-a409-5f32269df693)
+![licence](https://github.com/user-attachments/assets/d196b291-3246-4d42-9217-d12ff22a8965)
 
 
 ![1](https://github.com/user-attachments/assets/34b6653b-4679-470f-a110-563dd33c7070)
