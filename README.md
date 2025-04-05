@@ -1,6 +1,7 @@
 ![advocate page](https://github.com/user-attachments/assets/53b0c67b-39ae-4f20-a165-902bd2f0a53e)
 ![l](https://github.com/user-attachments/assets/ad9edaa1-9910-4ced-a409-5f32269df693)
 ![licence](https://github.com/user-attachments/assets/d196b291-3246-4d42-9217-d12ff22a8965)
+![bus_description](https://github.com/user-attachments/assets/8318547a-65da-4077-b82b-31af56ef37c1)
 
 ![Classic BUS](https://github.com/user-attachments/assets/68cec335-29ba-43f3-a288-44584ecbd35c)
 
