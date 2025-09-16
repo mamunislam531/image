@@ -1,4 +1,8 @@
 
+
+
+
+
 ![bus_complete_ui](https://github.com/user-attachments/assets/dc12b62b-83ac-4cde-9d46-082f9ac1e1d4)
 
 
@@ -50,3 +54,13 @@ https://github.com/user-attachments/assets/f60115b0-12ee-470c-aa67-ba5123ff07a5
 
 
 ![cccccccc](https://github.com/user-attachments/assets/f7ba452a-43ed-4ba9-83b3-7b56173b9cfb)
+
+
+
+
+-------------------------Play store App Store and Project showcase ----------------
+<img width="1080" height="1920" alt="project_showcase" src="https://github.com/user-attachments/assets/2754d150-de2c-4558-b7d5-efd5b32e5f98" />
+<img width="1080" height="1920" alt="console_showcase" src="https://github.com/user-attachments/assets/cd0f65ce-5ed9-493e-a0a7-5d10ec6693e2" />
+[showcase_1.pdf](https://github.com/user-attachments/files/22357129/showcase_1.pdf)
+
+
